@@ -1,3 +1,3 @@
-### Utility function to convert Japanese address to JapanPost barcode.
+# Utility function to convert Japanese address to JapanPost barcode.
 
 * generateAddressCode(address: string)
